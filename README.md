@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Spring, Hibernate, Web Development, Android Development
 - 🌱 I’m currently learning ReactJS, React Native
 - 💞️ I’m looking to collaborate on any java related projects
-- 📫 Reach me at bailurvikrambhat@gmail.com
+- 📫 Reach me at bailuvikrambhat@gmail.com
 
 <!---
 BailurVikramBhat/BailurVikramBhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
